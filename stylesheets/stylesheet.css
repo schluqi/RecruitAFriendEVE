@@ -12,12 +12,14 @@
     src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(https://fonts.gstatic.com/s/robotoslab/v6/y7lebkjgREBJK96VQi37ZrrIa-7acMAeDBVuclsi6Gc.woff) format("woff")
 }
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+
 html,
 body {
 	margin: 0;
 	padding: 0;
 	background-color: #161d26;
-	font-family: "Shentox-SemiBold,ProximaNova-Bold,Roboto Slab", Newslab, Serifa, Georgia, "Times New Roman", Times, serif;
+	font-family: "Roboto Condensed", Newslab, Serifa, Georgia, "Times New Roman", Times, serif;
 	font-size: 1.25vmax;
 }
 #main {

@@ -17,14 +17,14 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #161d26;
-	font-family: "Roboto Slab", Newslab, Serifa, Georgia, "Times New Roman", Times, serif;
+	font-family: "Shentox-SemiBold,ProximaNova-Bold,Roboto Slab", Newslab, Serifa, Georgia, "Times New Roman", Times, serif;
 	font-size: 1.25vmax;
 }
 #main {
 	width: 33%;
 	padding: 5% 10%;
 	margin: auto;
-	background-color: #404040;
+	background-color: #606060;
 	-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.33);
 	-moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.33);
 	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.33);
@@ -77,7 +77,7 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #777;
+	color: #bbb;
 }
 a:hover {
 	text-decoration: underline;

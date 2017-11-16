@@ -61,6 +61,7 @@ body {
 	width: 53%;
 	padding: 2% 0;
 	margin: auto;
+	font-size: 0.3vmax;
 }
 #links {
 	display: flex;

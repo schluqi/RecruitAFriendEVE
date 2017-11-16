@@ -20,14 +20,11 @@ body {
 	font-family: "Roboto Slab", Newslab, Serifa, Georgia, "Times New Roman", Times, serif;
 	font-size: 1.25vmax;
 }
-#mid {
-	background-color: #404040;
-}
 #main {
 	width: 33%;
 	padding: 5% 10%;
 	margin: auto;
-	background-color: #fff;
+	background-color: #404040;
 	-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.33);
 	-moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.33);
 	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.33);
